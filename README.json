@@ -1,39 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Anomaly Detection Software"
-    },
-    {
-      "description": "This section includes some time-series software for anomaly detection-related tasks, such as forecasting, generic TS analysis and labeling.",
-      "items": [],
-      "title": "Related Software"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Forecasting"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Time-Series Analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Labeling"
-    },
-    {
-      "description": "If you would like to cite this repository, please use the following DOI:\n\nor use this BibTex",
-      "items": [],
-      "title": "Citation Policy"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T05:59:35.505Z",
+    "last_updated": "2026-08-19T12:13:02.229Z",
     "original_repository": "rob-med/awesome-TS-anomaly-detection",
+    "original_repository_id": 114778979,
     "original_repository_sha": "d0708f73bbff037f52fc5b5f74ca37a264fae435",
     "enhanced_repository": "enhansome/enhansome-TS-anomaly-detection",
     "enhanced_repository_description": null,
