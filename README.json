@@ -1,7 +1,857 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cuebook's CueObserve",
+          "description": "Python3 Anomaly detection on SQL data warehouses and databases. Apache-2.0 :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379364983,
+            "language": "Python",
+            "last_commit": "2022-02-23T19:51:23Z",
+            "owner": "cuebook",
+            "repo": "CueObserve",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yahoo's EGADS",
+          "description": "Java GADS is a library that contains a number of anomaly detection techniques applicable to many use-cases in a single package with the only dependency being Java. GPL :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35173936,
+            "language": "Java",
+            "last_commit": "2023-11-14T22:41:19Z",
+            "owner": "yahoo",
+            "repo": "egads",
+            "stars": 1189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIStream's flow-forecast",
+          "description": "Python Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting). GPL-3 :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202580388,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:20:24Z",
+            "owner": "AIStream-Peelout",
+            "repo": "flow-forecast",
+            "stars": 2291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hastic",
+          "description": "Python + node.js Anomaly detection tool for time series data with Grafana-based UI. GPL :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 426045463,
+            "language": "Rust",
+            "last_commit": "2023-03-04T16:48:34Z",
+            "owner": "hastic",
+            "repo": "hastic",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zillow's Luminaire",
+          "description": "Python Luminaire is a python package that provides ML driven anomaly detection and forecasting solutions for time series data. Apache-2.0 :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278175856,
+            "language": "Python",
+            "last_commit": "2026-06-02T20:49:09Z",
+            "owner": "zillow",
+            "repo": "luminaire",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIDAS",
+          "description": "C++ MIDAS, short for Microcluster-Based Detector of Anomalies in Edge Streams, detects microcluster anomalies from an edge stream in constant time and memory. Apache-2.0 :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216963360,
+            "language": "C++",
+            "last_commit": "2024-01-10T05:43:58Z",
+            "owner": "Stream-AD",
+            "repo": "MIDAS",
+            "stars": 777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orion",
+          "description": "Python Orion is a machine learning library built for unsupervised time series anomaly detection, providing a number of “verified” ML pipelines (a.k.a Orion pipelines) that identify rare patterns and flag them for expert review. MIT :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142140875,
+            "language": "Python",
+            "last_commit": "2026-08-17T01:20:51Z",
+            "owner": "sintel-dev",
+            "repo": "Orion",
+            "stars": 1367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OutlierDetection.jl",
+          "description": "Julia Fast, scalable and flexible Outlier Detection with Julia. MIT :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339437751,
+            "language": "Julia",
+            "last_commit": "2025-12-03T14:41:56Z",
+            "owner": "OutlierDetectionJL",
+            "repo": "OutlierDetection.jl",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyOD",
+          "description": "Python PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. BSD 2-Clause :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105699750,
+            "language": "Python",
+            "last_commit": "2026-08-19T03:12:27Z",
+            "owner": "yzhao062",
+            "repo": "pyod",
+            "stars": 9977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruptures",
+          "description": "Python Ruptures is a Python library for off-line change point detection. This package provides methods for the analysis and segmentation of non-stationary signals. BSD 2-Clause :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118264731,
+            "language": "Python",
+            "last_commit": "2026-07-06T22:04:14Z",
+            "owner": "deepcharles",
+            "repo": "ruptures",
+            "stars": 2073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthGecko Skyline",
+          "description": "Python3 Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. MIT :heavy_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20475900,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:55:18Z",
+            "owner": "earthgecko",
+            "repo": "skyline",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expedia.com's Adaptive Alerting",
+          "description": "Java Streaming anomaly detection with automated model selection and fitting. Apache-2.0 ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129125498,
+            "language": "Java",
+            "last_commit": "2024-03-05T08:03:01Z",
+            "owner": "ExpediaGroup",
+            "repo": "adaptive-alerting",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arundo's ADTK",
+          "description": "Python Anomaly Detection Toolkit (ADTK) is a Python package for unsupervised / rule-based time series anomaly detection. MPL 2.0 ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211204606,
+            "language": "Python",
+            "last_commit": "2024-08-01T11:53:43Z",
+            "owner": "arundo",
+            "repo": "adtk",
+            "stars": 1211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter's AnomalyDetection",
+          "description": "R AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend. GPL ❌",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 27778839,
+            "language": "R",
+            "last_commit": "2019-08-30T19:49:16Z",
+            "owner": "twitter",
+            "repo": "AnomalyDetection",
+            "stars": 3606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lytics' Anomalyzer",
+          "description": "Go Anomalyzer implements a suite of statistical tests that yield the probability that a given set of numeric input, typically a time series, contains anomalous behavior. Apache-2.0 ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21755072,
+            "language": "Go",
+            "last_commit": "2015-11-11T00:41:52Z",
+            "owner": "lytics",
+            "repo": "anomalyzer",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "banpei",
+          "description": "Python Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. MIT ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104569445,
+            "language": "Python",
+            "last_commit": "2020-09-21T14:00:06Z",
+            "owner": "tsurubee",
+            "repo": "banpei",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ele.me's banshee",
+          "description": "Go Anomalies detection system for periodic metrics. MIT ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48986053,
+            "language": "Go",
+            "last_commit": "2016-03-03T15:48:17Z",
+            "owner": "facesea",
+            "repo": "banshee",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAD",
+          "description": "Python Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition). AGPL ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61892583,
+            "language": "Python",
+            "last_commit": "2019-06-25T13:55:36Z",
+            "owner": "smirmik",
+            "repo": "CAD",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaos Genius",
+          "description": "Python ML powered analytics engine for outlier/anomaly detection and root cause analysis. MIT ❌",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 371296634,
+            "language": "Python",
+            "last_commit": "2024-09-12T07:46:44Z",
+            "owner": "chaos-genius",
+            "repo": "chaos_genius",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mentat's datastream.io",
+          "description": "Python An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana. Apache-2.0 ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101876288,
+            "language": "Python",
+            "last_commit": "2020-03-31T09:28:32Z",
+            "owner": "MentatInnovations",
+            "repo": "datastream.io",
+            "stars": 914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepADoTS",
+          "description": "Python Implementation and evaluation of 7 deep learning-based techniques for Anomaly Detection on Time-Series data. MIT ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130369068,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:23:00Z",
+            "owner": "KDD-OpenSource",
+            "repo": "DeepADoTS",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donut",
+          "description": "Python Donut is an unsupervised anomaly detection algorithm for seasonal KPIs, based on Variational Autoencoders. - ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115477704,
+            "language": "Python",
+            "last_commit": "2019-03-06T03:12:00Z",
+            "owner": "NetManAIOps",
+            "repo": "donut",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoudML",
+          "description": "Python Loud ML is an open source time series inference engine built on top of TensorFlow. It's useful to forecast data, detect outliers, and automate your process using future knowledge. MIT ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117689372,
+            "language": "Python",
+            "last_commit": "2022-12-08T09:30:37Z",
+            "owner": "regel",
+            "repo": "loudml",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linkedin's luminol",
+          "description": "Python Luminol is a light weight python library for time series data analysis. The two major functionalities it supports are anomaly detection and correlation. It can be used to investigate possible causes of anomaly. Apache-2.0 ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46453832,
+            "language": "Python",
+            "last_commit": "2025-08-22T23:19:05Z",
+            "owner": "linkedin",
+            "repo": "luminol",
+            "stars": 1230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Numenta's Nupic",
+          "description": "C++ Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM). AGPL ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9252533,
+            "language": "Python",
+            "last_commit": "2024-12-03T17:50:20Z",
+            "owner": "numenta",
+            "repo": "nupic-legacy",
+            "stars": 6351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oddstream",
+          "description": "R oddstream (Outlier Detection in Data Streams) provides real time support for early detection of anomalous series within a large collection of streaming time series data. GPL-3 ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93370079,
+            "language": "R",
+            "last_commit": "2020-04-02T09:12:50Z",
+            "owner": "pridiltal",
+            "repo": "oddstream",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyOdds",
+          "description": "Python PyODDS is an end-to end Python system for outlier detection with database support. PyODDS provides outlier detection algorithms, which support both static and time-series data. MIT ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213480284,
+            "language": "Python",
+            "last_commit": "2023-03-25T00:15:53Z",
+            "owner": "datamllab",
+            "repo": "pyodds",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySAD",
+          "description": "Python PySAD is a streaming anomaly detection framework with various online models and complete set of tools for experimentation. BSD 3-Clause ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269500695,
+            "language": "Python",
+            "last_commit": "2026-05-31T02:47:52Z",
+            "owner": "selimfirat",
+            "repo": "pysad",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rrcf",
+          "description": "Python Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams. MIT ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153873481,
+            "language": "Python",
+            "last_commit": "2024-02-24T12:21:01Z",
+            "owner": "kLabUM",
+            "repo": "rrcf",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netflix's Surus",
+          "description": "Java Robust Anomaly Detection (RAD) - An implementation of the Robust PCA. Apache-2.0 ❌",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 29155477,
+            "language": "Java",
+            "last_commit": "2023-03-24T09:37:02Z",
+            "owner": "Netflix",
+            "repo": "Surus",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NASA's Telemanom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135760903,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-17T13:42:45Z",
+            "owner": "khundman",
+            "repo": "telemanom",
+            "stars": 1186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "custom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135760903,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-17T13:42:45Z",
+            "owner": "khundman",
+            "repo": "telemanom",
+            "stars": 1186
+          }
+        }
+      ],
+      "title": "Anomaly Detection Software"
+    },
+    {
+      "description": "This section includes some time-series software for anomaly detection-related tasks, such as forecasting, generic TS analysis and labeling.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "darts",
+              "description": "Python darts is a python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA to neural networks. Apache-2.0 :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148657183,
+                "language": "Python",
+                "last_commit": "2026-08-21T08:30:55Z",
+                "owner": "unit8co",
+                "repo": "darts",
+                "stars": 9504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ETNA",
+              "description": "Python etna is a python library for time series forecasting and analysis with temporal data structure always in mind. Includes a variety of predictive models with unified interface along with EDA and validation methods. Apache-2.0 :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 400528139,
+                "language": "Python",
+                "last_commit": "2023-08-09T15:52:57Z",
+                "owner": "tinkoff-ai",
+                "repo": "etna",
+                "stars": 882
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amazon's GluonTS",
+              "description": "Python GluonTS is a Python toolkit for probabilistic time series modeling, built around MXNet. GluonTS provides utilities for loading and iterating over time series datasets, state of the art models ready to be trained, and building blocks to define your own models. Apache-2.0 :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186872119,
+                "language": "Python",
+                "last_commit": "2026-07-31T11:26:21Z",
+                "owner": "awslabs",
+                "repo": "gluonts",
+                "stars": 5228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pmdarima",
+              "description": "Python Porting of R's auto.arima with a scikit-learn-friendly interface. MIT :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86715491,
+                "language": "Python",
+                "last_commit": "2025-11-17T16:09:28Z",
+                "owner": "alkaline-ml",
+                "repo": "pmdarima",
+                "stars": 1733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Facebook's Prophet",
+              "description": "Python/R Prophet is a procedure for forecasting time series data. It is based on an additive model where non-linear trends are fit with yearly and weekly seasonality, plus holidays. BSD :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73872834,
+                "language": "Python",
+                "last_commit": "2026-08-15T03:38:56Z",
+                "owner": "facebook",
+                "repo": "prophet",
+                "stars": 20364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyFlux",
+              "description": "Python The library has a good array of modern time series models, as well as a flexible array of inference options (frequentist and Bayesian) that can be applied to these models. BSD 3-Clause ❌",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51865749,
+                "language": "Python",
+                "last_commit": "2023-10-24T16:13:23Z",
+                "owner": "RJT1990",
+                "repo": "pyflux",
+                "stars": 2135
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Forecasting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Facebook's Kats",
+              "description": "Python Kats aims to provide the one-stop shop for time series analysis, including detection, forecasting, feature extraction/embedding, multivariate analysis, etc. MIT :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342388745,
+                "language": "Python",
+                "last_commit": "2026-08-19T01:26:53Z",
+                "owner": "facebookresearch",
+                "repo": "Kats",
+                "stars": 6450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MatrixProfile",
+              "description": "Python A Python 3 library making time series data mining tasks, utilizing matrix profile algorithms, accessible to everyone. Apache-2.0 :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198119545,
+                "language": "Python",
+                "last_commit": "2023-11-29T11:51:15Z",
+                "owner": "matrix-profile-foundation",
+                "repo": "matrixprofile",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salesforce's Merlion",
+              "description": "Python Merlion: A Machine Learning Framework for Time Series Intelligence, support multiple models including ARIMA BSD 3-Clause :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 390401992,
+                "language": "Python",
+                "last_commit": "2026-03-11T12:52:32Z",
+                "owner": "salesforce",
+                "repo": "Merlion",
+                "stars": 4491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SaxPy",
+              "description": "Python General implementation of SAX, as well as HOTSAX for anomaly detection. GPLv2.0 :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108297142,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-26T17:30:48Z",
+                "owner": "seninp",
+                "repo": "saxpy",
+                "stars": 219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sktime",
+              "description": "Python A unified framework for machine learning with time series. It provides specialized time series algorithms and scikit-learn compatible tools to build, tune and validate time series models for multiple learning problems. BSD 3-Clause :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156401841,
+                "language": "Python",
+                "last_commit": "2026-08-23T22:13:28Z",
+                "owner": "sktime",
+                "repo": "sktime",
+                "stars": 9963
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sktime-dl",
+              "description": "Python An extension package for deep learning with Tensorflow/Keras for sktime. BSD 3-Clause :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198628357,
+                "language": "Python",
+                "last_commit": "2024-08-02T16:30:37Z",
+                "owner": "sktime",
+                "repo": "sktime-dl",
+                "stars": 594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Squey",
+              "description": "C++ Visualization software allowing in-depth exploration of timeseries while displaying every outliers. MIT :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648945293,
+                "language": "C++",
+                "last_commit": "2026-08-01T14:36:03Z",
+                "owner": "squey",
+                "repo": "squey",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tigramite",
+              "description": "Python Tigramite is a causal time series analysis python package. It allows to efficiently reconstruct causal graphs from high-dimensional time series datasets and model the obtained causal dependencies for causal mediation and prediction analyses. GPLv3.0 :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91324771,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-01-14T22:41:36Z",
+                "owner": "jakobrunge",
+                "repo": "tigramite",
+                "stars": 1709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tsflex",
+              "description": "Python tsflex is a time series toolkit for feature extraction & processing that is both flexible and efficient. This package supports strided-window feature extraction on multivariate, irregularly-sampled sequence data. MIT :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386663484,
+                "language": "Python",
+                "last_commit": "2024-09-06T09:28:23Z",
+                "owner": "predict-idlab",
+                "repo": "tsflex",
+                "stars": 442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tslearn",
+              "description": "Python tslearn is a Python package that provides machine learning tools for the analysis of time series. This package builds on scikit-learn, numpy and scipy libraries. BSD 2-Clause :heavy_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90264407,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:54:06Z",
+                "owner": "tslearn-team",
+                "repo": "tslearn",
+                "stars": 3172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "seglearn",
+              "description": "Python Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator. BSD 3-Clause ❌",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123977530,
+                "language": "Python",
+                "last_commit": "2022-08-27T09:01:18Z",
+                "owner": "dmbee",
+                "repo": "seglearn",
+                "stars": 575
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Time-Series Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Baidu's Curve",
+              "description": "Python Curve is an open-source tool to help label anomalies on time-series data. Apache-2.0 ❌",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 107930664,
+                "language": "JavaScript",
+                "last_commit": "2020-12-24T08:19:38Z",
+                "owner": "baidu",
+                "repo": "Curve",
+                "stars": 535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Microsoft's Taganomaly",
+              "description": "R (dockerized web app) Simple tool for tagging time series data. Works for univariate and multivariate data, provides a reference anomaly prediction using Twitter's AnomalyDetection package. MIT ❌",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 139555645,
+                "language": "R",
+                "last_commit": "2024-02-08T15:29:01Z",
+                "owner": "microsoft",
+                "repo": "TagAnomaly",
+                "stars": 333
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Labeling"
+        }
+      ],
+      "title": "Related Software"
+    },
+    {
+      "description": "NAB is a novel benchmark for evaluating algorithms for anomaly detection in streaming, real-time applications. It is comprised of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications.\nThe dataset consists of real and synthetic time-series with tagged anomaly points. The dataset tests the detection accuracy of various anomaly-types including outliers and change-points.\nSKAB (Skoltech Anomaly Benchmark) is designed for evaluating algorithms for anomaly detection. The benchmark currently includes 30+ datasets plus Python modules for algorithms’ evaluation. Each dataset represents a multivariate time series collected from the sensors installed on the testbed. All instances are labeled for evaluating the results of solving outlier detection and changepoint detection problems.\nThe dataset consists of KPIs (key performace index) time series data from many real scenarios of Internet companies with ground truth label. Click below for a more detailed description.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Numenta's NAB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19504082,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-03T17:49:50Z",
+            "owner": "numenta",
+            "repo": "NAB",
+            "stars": 2103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020 Skoltech's SKAB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280804701,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-11T20:53:38Z",
+            "owner": "waico",
+            "repo": "SKAB",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018 AIOps's KPI-Anomaly-Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238914477,
+            "language": null,
+            "last_commit": "2022-08-08T06:48:01Z",
+            "owner": "NetManAIOps",
+            "repo": "KPI-Anomaly-Detection",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "Benchmark Datasets"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T06:06:22.833Z",
+    "last_updated": "2026-08-24T13:58:58.630Z",
     "original_repository": "rob-med/awesome-TS-anomaly-detection",
     "original_repository_id": 114778979,
     "original_repository_sha": "d0708f73bbff037f52fc5b5f74ca37a264fae435",
