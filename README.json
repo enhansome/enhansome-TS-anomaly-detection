@@ -150,7 +150,7 @@
             "last_commit": "2026-07-06T22:04:14Z",
             "owner": "deepcharles",
             "repo": "ruptures",
-            "stars": 2073
+            "stars": 2074
           }
         },
         {
@@ -563,7 +563,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20364
+                "stars": 20366
               }
             },
             {
@@ -657,7 +657,7 @@
                 "archived": false,
                 "id": 156401841,
                 "language": "Python",
-                "last_commit": "2026-08-23T22:13:28Z",
+                "last_commit": "2026-08-24T21:27:52Z",
                 "owner": "sktime",
                 "repo": "sktime",
                 "stars": 9963
@@ -732,10 +732,10 @@
                 "archived": false,
                 "id": 90264407,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:54:06Z",
+                "last_commit": "2026-08-24T18:17:01Z",
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3172
+                "stars": 3174
               }
             },
             {
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:58.630Z",
+    "last_updated": "2026-08-25T05:52:11.543Z",
     "original_repository": "rob-med/awesome-TS-anomaly-detection",
     "original_repository_id": 114778979,
     "original_repository_sha": "d0708f73bbff037f52fc5b5f74ca37a264fae435",
