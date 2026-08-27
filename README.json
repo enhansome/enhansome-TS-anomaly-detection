@@ -45,7 +45,7 @@
             "last_commit": "2026-08-13T06:20:24Z",
             "owner": "AIStream-Peelout",
             "repo": "flow-forecast",
-            "stars": 2292
+            "stars": 2293
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2024-12-03T17:50:20Z",
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6350
+            "stars": 6349
           }
         },
         {
@@ -533,7 +533,7 @@
                 "last_commit": "2026-07-31T11:26:21Z",
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5228
+                "stars": 5231
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20372
+                "stars": 20373
               }
             },
             {
@@ -600,7 +600,7 @@
                 "last_commit": "2026-08-19T01:26:53Z",
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6462
+                "stars": 6463
               }
             },
             {
@@ -660,7 +660,7 @@
                 "last_commit": "2026-08-27T11:32:37Z",
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 9966
+                "stars": 9968
               }
             },
             {
@@ -732,7 +732,7 @@
                 "archived": false,
                 "id": 90264407,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:32:09Z",
+                "last_commit": "2026-08-27T12:07:53Z",
                 "owner": "tslearn-team",
                 "repo": "tslearn",
                 "stars": 3174
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:25.125Z",
+    "last_updated": "2026-08-27T16:46:25.805Z",
     "original_repository_info": {
       "archived": false,
       "id": 114778979,
