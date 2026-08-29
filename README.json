@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Timeseries Anomaly detection and Root Cause Analysis on data in SQL data warehouses and databases",
+            "homepage": "https://cueobserve.cuebook.ai",
             "id": 379364983,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-23T19:51:23Z",
+            "open_issues": 30,
             "owner": "cuebook",
             "repo": "CueObserve",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "bigquery",
+              "datawarehouse",
+              "prophet-facebook",
+              "redshift",
+              "root-cause-analysis",
+              "snowflake",
+              "sql",
+              "timeseries-analysis",
+              "timeseries-forecasting"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -26,12 +43,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java package to automatically detect anomalies in large scale time-series data",
+            "homepage": null,
             "id": 35173936,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-14T22:41:19Z",
+            "open_issues": 24,
             "owner": "yahoo",
             "repo": "egads",
-            "stars": 1189
+            "stars": 1189,
+            "topics": [
+              "anomaly-detection-models",
+              "big-data",
+              "java",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -42,12 +69,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).",
+            "homepage": "https://flow-forecast.atlassian.net/wiki/spaces/FF/overview",
             "id": 202580388,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-13T06:20:24Z",
+            "open_issues": 116,
             "owner": "AIStream-Peelout",
             "repo": "flow-forecast",
-            "stars": 2293
+            "stars": 2293,
+            "topics": [
+              "anomaly-detection",
+              "deep-learning",
+              "deep-neural-networks",
+              "forecasting",
+              "hacktoberfest",
+              "lstm",
+              "pytorch",
+              "state-of-the-art-models",
+              "time-series",
+              "time-series-analysis",
+              "time-series-forecasting",
+              "time-series-regression",
+              "transfer-learning",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -58,12 +105,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hastic standalone",
+            "homepage": "https://hastic.io/",
             "id": 426045463,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-03-04T16:48:34Z",
+            "open_issues": 61,
             "owner": "hastic",
             "repo": "hastic",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "analytics",
+              "influxdb",
+              "monitoring",
+              "prometheus",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -74,12 +132,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luminaire is a python package that provides ML driven solutions for monitoring time series data.",
+            "homepage": "https://zillow.github.io/luminaire",
             "id": 278175856,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T20:49:09Z",
+            "open_issues": 27,
             "owner": "zillow",
             "repo": "luminaire",
-            "stars": 809
+            "stars": 809,
+            "topics": [
+              "anomaly-detection",
+              "automl",
+              "forecasting",
+              "outlier-detection",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -90,12 +159,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.",
+            "homepage": null,
             "id": 216963360,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-10T05:43:58Z",
+            "open_issues": 3,
             "owner": "Stream-AD",
             "repo": "MIDAS",
-            "stars": 777
+            "stars": 777,
+            "topics": [
+              "aaai2020",
+              "anomaly-detection",
+              "denial-of-service",
+              "fraud-detection",
+              "intrusion-detection"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -106,12 +186,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unsupervised time series anomaly detection library",
+            "homepage": "https://sintel.dev/Orion/",
             "id": 142140875,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T01:20:51Z",
+            "open_issues": 62,
             "owner": "sintel-dev",
             "repo": "Orion",
-            "stars": 1368
+            "stars": 1368,
+            "topics": [
+              "anomaly-detection",
+              "benchmarking",
+              "data-science",
+              "deep-learning",
+              "generative-adversarial-network",
+              "machine-learning",
+              "orion",
+              "signals",
+              "time-series",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -122,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, scalable and flexible Outlier Detection with Julia",
+            "homepage": "https://outlierdetectionjl.github.io/OutlierDetection.jl/dev/",
             "id": 339437751,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2025-12-03T14:41:56Z",
+            "open_issues": 6,
             "owner": "OutlierDetectionJL",
             "repo": "OutlierDetection.jl",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -138,12 +239,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.",
+            "homepage": "https://pyod.dev/",
             "id": 105699750,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-19T03:12:27Z",
+            "open_issues": 237,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9977
+            "stars": 9977,
+            "topics": [
+              "agentic-ai",
+              "anomaly-detection",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "foundation-models",
+              "fraud-detection",
+              "graph-anomaly-detection",
+              "image-anomaly-detection",
+              "machine-learning",
+              "multimodal",
+              "nlp-anomaly-detection",
+              "novelty-detection",
+              "out-of-distribution-detection",
+              "outlier-detection",
+              "outlier-ensembles",
+              "time-series",
+              "time-series-anomaly-detection",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -154,12 +280,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ruptures: change point detection in Python",
+            "homepage": null,
             "id": 118264731,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-06T22:04:14Z",
+            "open_issues": 35,
             "owner": "deepcharles",
             "repo": "ruptures",
-            "stars": 2077
+            "stars": 2077,
+            "topics": [
+              "change-point-detection",
+              "changepoint",
+              "python",
+              "science",
+              "scientific-computing",
+              "signal-processing"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -170,12 +308,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time anomaly detection for time series metrics. 11 years of production anomaly detection evolution. Multi-algorithm ensembles. Pattern recognition using semi-supervised and unsupervised learning. Correlation analysis. Learns and gets better over time.  No GPU required, can run on a VPS.",
+            "homepage": "http://earthgecko-skyline.readthedocs.io/en/latest/",
             "id": 20475900,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T18:55:18Z",
+            "open_issues": 10,
             "owner": "earthgecko",
             "repo": "skyline",
-            "stars": 593
+            "stars": 593,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "detection",
+              "graphite",
+              "influxdb",
+              "prometheus",
+              "python",
+              "telegraf",
+              "timeseries",
+              "timeseries-analysis",
+              "victoriametrics"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -186,12 +341,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly detection for streaming time series, featuring automated model selection.",
+            "homepage": null,
             "id": 129125498,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-05T08:03:01Z",
+            "open_issues": 36,
             "owner": "ExpediaGroup",
             "repo": "adaptive-alerting",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "monitoring",
+              "outlier",
+              "outlier-detection",
+              "streaming",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -202,12 +370,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python toolkit for rule-based/unsupervised anomaly detection in time series",
+            "homepage": "https://adtk.readthedocs.io",
             "id": 211204606,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2024-08-01T11:53:43Z",
+            "open_issues": 54,
             "owner": "arundo",
             "repo": "adtk",
-            "stars": 1211
+            "stars": 1211,
+            "topics": [
+              "anomaly-detection",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -218,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Anomaly Detection with R",
+            "homepage": null,
             "id": 27778839,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2019-08-30T19:49:16Z",
+            "open_issues": 71,
             "owner": "twitter",
             "repo": "AnomalyDetection",
-            "stars": 3606
+            "stars": 3606,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -234,12 +415,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Probabilistic anomaly detection for time series data",
+            "homepage": null,
             "id": 21755072,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2015-11-11T00:41:52Z",
+            "open_issues": 1,
             "owner": "lytics",
             "repo": "anomalyzer",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "lio-dependency"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -250,12 +438,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly detection library based on singular spectrum transformation(sst)",
+            "homepage": null,
             "id": 104569445,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-21T14:00:06Z",
+            "open_issues": 0,
             "owner": "tsurubee",
             "repo": "banpei",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "anomaly-detection",
+              "python",
+              "time-series-analysis"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -266,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Working On] Anomalies detection system for periodic metrics.",
+            "homepage": null,
             "id": 48986053,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-03-03T15:48:17Z",
+            "open_issues": 0,
             "owner": "facesea",
             "repo": "banshee",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -282,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contextual Anomaly Detector",
+            "homepage": null,
             "id": 61892583,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2019-06-25T13:55:36Z",
+            "open_issues": 3,
             "owner": "smirmik",
             "repo": "CAD",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -298,12 +505,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ML powered analytics engine for outlier detection and root cause analysis.",
+            "homepage": "https://www.chaosgenius.io",
             "id": 371296634,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-12T07:46:44Z",
+            "open_issues": 74,
             "owner": "chaos-genius",
             "repo": "chaos_genius",
-            "stars": 778
+            "stars": 778,
+            "topics": [
+              "ai",
+              "alert",
+              "alert-messages",
+              "analytics",
+              "anomaly-detection",
+              "business-intelligence",
+              "data-visualization",
+              "dataquality",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "ml",
+              "monitoring",
+              "monitoring-tool",
+              "observability",
+              "outlier-detection",
+              "python",
+              "rootcauseanalysis",
+              "seasonality",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -314,12 +547,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source framework for real-time anomaly detection using Python, ElasticSearch and Kibana",
+            "homepage": null,
             "id": 101876288,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-31T09:28:32Z",
+            "open_issues": 22,
             "owner": "MentatInnovations",
             "repo": "datastream.io",
-            "stars": 913
+            "stars": 913,
+            "topics": [
+              "alerts",
+              "anomaly",
+              "anomaly-detection",
+              "anomalydetection",
+              "anomalydiscovery",
+              "bokeh-dashboard",
+              "dashboard",
+              "data-science",
+              "data-stream",
+              "datascience",
+              "dataset",
+              "dsio",
+              "elasticsearch",
+              "iot",
+              "jupyter",
+              "kibana",
+              "machinelearning",
+              "python",
+              "sklearn",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -330,12 +589,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of the paper \"A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series\".",
+            "homepage": null,
             "id": 130369068,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T17:23:00Z",
+            "open_issues": 13,
             "owner": "KDD-OpenSource",
             "repo": "DeepADoTS",
-            "stars": 599
+            "stars": 599,
+            "topics": [
+              "anomaly-detection",
+              "deep-learning",
+              "pytorch",
+              "tensorflow",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -346,12 +617,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WWW 2018: Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications",
+            "homepage": null,
             "id": 115477704,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-03-06T03:12:00Z",
+            "open_issues": 25,
             "owner": "NetManAIOps",
             "repo": "donut",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "code"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -362,12 +640,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loud ML is the first open-source AI solution for ICT and IoT automation",
+            "homepage": null,
             "id": 117689372,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-08T09:30:37Z",
+            "open_issues": 95,
             "owner": "regel",
             "repo": "loudml",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "database",
+              "deep-learning",
+              "machine-learning",
+              "monitoring",
+              "tensorflow",
+              "time-series",
+              "time-series-prediction"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -378,12 +669,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly Detection and Correlation library",
+            "homepage": null,
             "id": 46453832,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-22T23:19:05Z",
+            "open_issues": 35,
             "owner": "linkedin",
             "repo": "luminol",
-            "stars": 1230
+            "stars": 1230,
+            "topics": [
+              "anomaly-detection",
+              "anomalydetection"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -394,12 +693,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.",
+            "homepage": "http://numenta.org/",
             "id": 9252533,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-03T17:50:20Z",
+            "open_issues": 465,
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6349
+            "stars": 6349,
+            "topics": [
+              "artificial-intelligence",
+              "hierarchical-temporal-memory",
+              "machine-intelligence",
+              "neocortex"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -410,12 +719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "oddstream {Outlier Detection in Data STREAMs}     :fish: :fish: :fish: :fish: :tropical_fish: :fish:  :fish: :fish: :fish: :fish:   :fish: :fish: :fish: :fish::fish:",
+            "homepage": "https://acems.org.au/projects/anomaly-detection-streaming-nonstationary-temporal-data",
             "id": 93370079,
             "language": "R",
+            "license": null,
             "last_commit": "2020-04-02T09:12:50Z",
+            "open_issues": 2,
             "owner": "pridiltal",
             "repo": "oddstream",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -426,12 +740,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An End-to-end Outlier Detection System",
+            "homepage": null,
             "id": 213480284,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-25T00:15:53Z",
+            "open_issues": 7,
             "owner": "datamllab",
             "repo": "pyodds",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "anomaly-detection",
+              "database",
+              "deep-learning",
+              "machine-learning",
+              "outlier-detection",
+              "tdengine",
+              "time-series",
+              "time-series-analysis"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -442,12 +770,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streaming Anomaly Detection Framework in Python (Outlier Detection for Streaming Data)",
+            "homepage": "https://pysad.readthedocs.io/en/latest/",
             "id": 269500695,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-31T02:47:52Z",
+            "open_issues": 2,
             "owner": "selimfirat",
             "repo": "pysad",
-            "stars": 290
+            "stars": 290,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "fraud-detection",
+              "incremental-learning",
+              "intrusion-detection",
+              "machine-learning",
+              "outlier-detection",
+              "outliers",
+              "python",
+              "real-time",
+              "streaming-data",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -458,12 +804,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌲 Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams",
+            "homepage": "https://klabum.github.io/rrcf/",
             "id": 153873481,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-24T12:21:01Z",
+            "open_issues": 32,
             "owner": "kLabUM",
             "repo": "rrcf",
-            "stars": 523
+            "stars": 523,
+            "topics": [
+              "anomaly-detection",
+              "detect-outliers",
+              "machine-learning",
+              "outliers",
+              "python",
+              "random-forest",
+              "robust-random-cut-forest",
+              "streaming-data",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -474,12 +835,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 29155477,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-24T09:37:02Z",
+            "open_issues": 3,
             "owner": "Netflix",
             "repo": "Surus",
-            "stars": 461
+            "stars": 461,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -490,12 +856,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.",
+            "homepage": "https://arxiv.org/abs/1802.04431",
             "id": 135760903,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-17T13:42:45Z",
+            "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1188
+            "stars": 1188,
+            "topics": [
+              "anomaly-detection",
+              "deep-learning",
+              "kdd",
+              "kdd2018",
+              "keras",
+              "lstm",
+              "rnn",
+              "tensorflow",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -506,12 +887,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.",
+            "homepage": "https://arxiv.org/abs/1802.04431",
             "id": 135760903,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-17T13:42:45Z",
+            "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1188
+            "stars": 1188,
+            "topics": [
+              "anomaly-detection",
+              "deep-learning",
+              "kdd",
+              "kdd2018",
+              "keras",
+              "lstm",
+              "rnn",
+              "tensorflow",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         }
@@ -530,12 +926,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python library for user-friendly forecasting and anomaly detection on time series.",
+                "homepage": "https://unit8co.github.io/darts/",
                 "id": 148657183,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T08:30:55Z",
+                "open_issues": 229,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9510
+                "stars": 9510,
+                "topics": [
+                  "anomaly-detection",
+                  "data-science",
+                  "deep-learning",
+                  "forecasting",
+                  "machine-learning",
+                  "python",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -546,12 +955,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ETNA – Time-Series Library",
+                "homepage": "https://etna.tinkoff.ru",
                 "id": 400528139,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-09T15:52:57Z",
+                "open_issues": 49,
                 "owner": "tinkoff-ai",
                 "repo": "etna",
-                "stars": 882
+                "stars": 882,
+                "topics": [
+                  "deep-learning",
+                  "forecasting",
+                  "machine-learning",
+                  "python",
+                  "time-series",
+                  "timeseries"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -562,12 +983,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Probabilistic time series modeling in Python",
+                "homepage": "https://ts.gluon.ai",
                 "id": 186872119,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T11:26:21Z",
+                "open_issues": 477,
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5232
+                "stars": 5232,
+                "topics": [
+                  "artificial-intelligence",
+                  "aws",
+                  "data-science",
+                  "deep-learning",
+                  "forecasting",
+                  "machine-learning",
+                  "mxnet",
+                  "neural-networks",
+                  "pytorch",
+                  "sagemaker",
+                  "time-series",
+                  "time-series-forecasting",
+                  "time-series-prediction",
+                  "timeseries",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -578,12 +1020,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.",
+                "homepage": "https://www.alkaline-ml.com/pmdarima",
                 "id": 86715491,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-17T16:09:28Z",
+                "open_issues": 65,
                 "owner": "alkaline-ml",
                 "repo": "pmdarima",
-                "stars": 1734
+                "stars": 1734,
+                "topics": [
+                  "arima",
+                  "econometrics",
+                  "forecasting",
+                  "forecasting-models",
+                  "machine-learning",
+                  "pmdarima",
+                  "python",
+                  "sarimax",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -594,12 +1051,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+                "homepage": "https://facebook.github.io/prophet",
                 "id": 73872834,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:22:30Z",
+                "open_issues": 452,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20375
+                "stars": 20379,
+                "topics": [
+                  "forecasting",
+                  "python",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -610,12 +1076,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source time series library for Python",
+                "homepage": null,
                 "id": 51865749,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-10-24T16:13:23Z",
+                "open_issues": 93,
                 "owner": "RJT1990",
                 "repo": "pyflux",
-                "stars": 2134
+                "stars": 2134,
+                "topics": [
+                  "statistics",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             }
@@ -633,12 +1107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends. ",
+                "homepage": null,
                 "id": 342388745,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T01:26:53Z",
+                "open_issues": 66,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6464
+                "stars": 6466,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -649,12 +1128,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python 3 library making time series data mining tasks, utilizing matrix profile algorithms, accessible to everyone.",
+                "homepage": "https://matrixprofile.org",
                 "id": 198119545,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-29T11:51:15Z",
+                "open_issues": 31,
                 "owner": "matrix-profile-foundation",
                 "repo": "matrixprofile",
-                "stars": 384
+                "stars": 384,
+                "topics": [
+                  "algorithms",
+                  "anomaly-detection",
+                  "clustering",
+                  "data-mining",
+                  "data-science",
+                  "hacktoberfest",
+                  "matrixprofile",
+                  "motif-discovery",
+                  "python",
+                  "python2",
+                  "python3",
+                  "segmentation",
+                  "time-series",
+                  "time-series-analysis"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -665,12 +1164,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Merlion: A Machine Learning Framework for Time Series Intelligence",
+                "homepage": null,
                 "id": 390401992,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-11T12:52:32Z",
+                "open_issues": 39,
                 "owner": "salesforce",
                 "repo": "Merlion",
-                "stars": 4491
+                "stars": 4491,
+                "topics": [
+                  "anomaly-detection",
+                  "automl",
+                  "benchmarking",
+                  "ensemble-learning",
+                  "forecasting",
+                  "machine-learning",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -681,12 +1193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symbolic Aggregate approXimation, HOT-SAX, and SAX-VSM implementation in Python",
+                "homepage": null,
                 "id": 108297142,
                 "language": "Jupyter Notebook",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-26T17:30:48Z",
+                "open_issues": 0,
                 "owner": "seninp",
                 "repo": "saxpy",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -697,12 +1214,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unified framework for machine learning with time series",
+                "homepage": "https://www.sktime.net",
                 "id": 156401841,
                 "language": "Python",
-                "last_commit": "2026-08-27T18:03:28Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T00:42:04Z",
+                "open_issues": 2403,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 9970
+                "stars": 9972,
+                "topics": [
+                  "ai",
+                  "anomaly-detection",
+                  "changepoint-detection",
+                  "data-mining",
+                  "data-science",
+                  "forecasting",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "scikit-learn",
+                  "sktime",
+                  "time-series",
+                  "time-series-analysis",
+                  "time-series-classification",
+                  "time-series-regression",
+                  "time-series-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -713,12 +1251,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DEPRECATED, now in sktime - companion package for deep learning based on TensorFlow",
+                "homepage": null,
                 "id": 198628357,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-02T16:30:37Z",
+                "open_issues": 6,
                 "owner": "sktime",
                 "repo": "sktime-dl",
-                "stars": 594
+                "stars": 594,
+                "topics": [
+                  "deep-learning",
+                  "longitudinal-data",
+                  "machine-learning",
+                  "neural-networks",
+                  "panel-data",
+                  "scikit-learn",
+                  "time-series",
+                  "time-series-classification",
+                  "time-series-forecasting",
+                  "time-series-regression"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -729,12 +1283,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Squey is an open-source cross-platform visualization software designed to interactively explore and understand large amounts of tabular data (this is the read-only mirror of https://gitlab.com/squey/squey)",
+                "homepage": "https://squey.org",
                 "id": 648945293,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:33:44Z",
+                "open_issues": 0,
                 "owner": "squey",
                 "repo": "squey",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "cybersecurity",
+                  "data-analysis",
+                  "data-science",
+                  "data-visualization",
+                  "exploratory-data-visualizations",
+                  "parallel-coordinates",
+                  "parquet",
+                  "parquet-files",
+                  "parquet-viewer",
+                  "pcap",
+                  "timeseries",
+                  "timeseries-analysis",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -745,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tigramite is a python package for causal inference with a focus on time series data. The Tigramite documentation is at",
+                "homepage": "https://jakobrunge.github.io/tigramite/",
                 "id": 91324771,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-14T22:41:36Z",
+                "open_issues": 19,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1711
+                "stars": 1711,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -761,12 +1339,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible time series feature extraction & processing",
+                "homepage": "https://predict-idlab.github.io/tsflex/",
                 "id": 386663484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-06T09:28:23Z",
+                "open_issues": 32,
                 "owner": "predict-idlab",
                 "repo": "tsflex",
-                "stars": 442
+                "stars": 442,
+                "topics": [
+                  "data-science",
+                  "feature-engineering",
+                  "feature-extraction",
+                  "multimodal",
+                  "multivariate",
+                  "pandas",
+                  "processing",
+                  "python",
+                  "time-series",
+                  "window-stride"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -777,12 +1371,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The machine learning toolkit for time series analysis in Python",
+                "homepage": "https://tslearn.readthedocs.io",
                 "id": 90264407,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-27T12:07:53Z",
+                "open_issues": 84,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3174
+                "stars": 3174,
+                "topics": [
+                  "dtw",
+                  "dynamic-time-warping",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machinelearning",
+                  "python",
+                  "time-series",
+                  "time-series-analysis",
+                  "time-series-classification",
+                  "time-series-clustering",
+                  "timeseries"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -793,12 +1404,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module for machine learning time series:",
+                "homepage": "https://dmbee.github.io/seglearn/",
                 "id": 123977530,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-08-27T09:01:18Z",
+                "open_issues": 5,
                 "owner": "dmbee",
                 "repo": "seglearn",
-                "stars": 575
+                "stars": 575,
+                "topics": [
+                  "data-science",
+                  "machine-learning",
+                  "python",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             }
@@ -816,12 +1437,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An Integrated Experimental Platform for time series data anomaly detection.",
+                "homepage": "http://curve.baidu.com",
                 "id": 107930664,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-24T08:19:38Z",
+                "open_issues": 37,
                 "owner": "baidu",
                 "repo": "Curve",
-                "stars": 535
+                "stars": 535,
+                "topics": [
+                  "anomaly-detection",
+                  "labeling",
+                  "monitoring-tool",
+                  "series-data"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             },
@@ -832,12 +1463,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Anomaly detection analysis and labeling tool, specifically for multiple time series (one time series per category) ",
+                "homepage": null,
                 "id": 139555645,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2024-02-08T15:29:01Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "TagAnomaly",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "anomaly-detection",
+                  "labeling-tool",
+                  "r",
+                  "shiny",
+                  "tagging-tool",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
             }
@@ -859,12 +1502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Numenta Anomaly Benchmark",
+            "homepage": null,
             "id": 19504082,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-12-03T17:49:50Z",
+            "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2103
+            "stars": 2103,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -875,12 +1523,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SKAB - Skoltech Anomaly Benchmark. Time-series data for evaluating Anomaly Detection algorithms.",
+            "homepage": null,
             "id": 280804701,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-11T20:53:38Z",
+            "open_issues": 4,
             "owner": "waico",
             "repo": "SKAB",
-            "stars": 407
+            "stars": 407,
+            "topics": [
+              "algorithms-evaluation",
+              "anomaly-detection",
+              "benchmark",
+              "changepoint-detection",
+              "collective-anomalies",
+              "dataset",
+              "datasets",
+              "leaderboard",
+              "outlier-detection",
+              "skab",
+              "skoltech"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         },
@@ -891,12 +1556,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2018AIOps: The 1st match for AIOps",
+            "homepage": null,
             "id": 238914477,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-08-08T06:48:01Z",
+            "open_issues": 4,
             "owner": "NetManAIOps",
             "repo": "KPI-Anomaly-Detection",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "dataset"
+            ]
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
         }
@@ -905,15 +1577,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:40:52.632Z",
+    "last_updated": "2026-08-29T04:20:03.003Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of tools & datasets for anomaly detection on time-series data.",
+      "homepage": null,
       "id": 114778979,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-21T16:22:32Z",
+      "open_issues": 6,
       "owner": "rob-med",
       "repo": "awesome-TS-anomaly-detection",
-      "stars": 3161
+      "stars": 3161,
+      "topics": [
+        "anomaly-detection",
+        "awesome-list",
+        "data-analysis",
+        "data-mining",
+        "machine-learning",
+        "outlier-detection",
+        "temporal-data",
+        "time-series"
+      ]
     },
     "original_repository_sha": "d0708f73bbff037f52fc5b5f74ca37a264fae435",
     "enhanced_repository": "enhansome/enhansome-TS-anomaly-detection",
