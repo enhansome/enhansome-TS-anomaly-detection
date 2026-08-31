@@ -191,7 +191,7 @@
             "id": 142140875,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-17T01:20:51Z",
+            "last_commit": "2026-08-31T04:16:07Z",
             "open_issues": 62,
             "owner": "sintel-dev",
             "repo": "Orion",
@@ -248,7 +248,7 @@
             "open_issues": 237,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9977,
+            "stars": 9976,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -749,7 +749,7 @@
             "open_issues": 7,
             "owner": "datamllab",
             "repo": "pyodds",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "anomaly-detection",
               "database",
@@ -989,10 +989,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-31T11:26:21Z",
-                "open_issues": 477,
+                "open_issues": 479,
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5232,
+                "stars": 5229,
                 "topics": [
                   "artificial-intelligence",
                   "aws",
@@ -1173,7 +1173,7 @@
                 "open_issues": 39,
                 "owner": "salesforce",
                 "repo": "Merlion",
-                "stars": 4491,
+                "stars": 4490,
                 "topics": [
                   "anomaly-detection",
                   "automl",
@@ -1219,11 +1219,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-30T09:58:26Z",
-                "open_issues": 2400,
+                "last_commit": "2026-08-30T18:37:33Z",
+                "open_issues": 2397,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 9975,
+                "stars": 9981,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1292,7 +1292,7 @@
                 "open_issues": 0,
                 "owner": "squey",
                 "repo": "squey",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "cybersecurity",
                   "data-analysis",
@@ -1327,7 +1327,7 @@
                 "open_issues": 19,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1711,
+                "stars": 1712,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1376,7 +1376,7 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-27T12:07:53Z",
+                "last_commit": "2026-08-31T08:58:45Z",
                 "open_issues": 84,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
@@ -1577,7 +1577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:38:51.648Z",
+    "last_updated": "2026-08-31T11:48:16.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
