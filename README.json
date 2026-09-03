@@ -78,7 +78,7 @@
             "open_issues": 116,
             "owner": "AIStream-Peelout",
             "repo": "flow-forecast",
-            "stars": 2294,
+            "stars": 2295,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -195,7 +195,7 @@
             "open_issues": 62,
             "owner": "sintel-dev",
             "repo": "Orion",
-            "stars": 1369,
+            "stars": 1368,
             "topics": [
               "anomaly-detection",
               "benchmarking",
@@ -248,7 +248,7 @@
             "open_issues": 238,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9978,
+            "stars": 9979,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -403,7 +403,7 @@
             "open_issues": 71,
             "owner": "twitter",
             "repo": "AnomalyDetection",
-            "stars": 3606,
+            "stars": 3605,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1060,7 +1060,7 @@
                 "open_issues": 452,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20385,
+                "stars": 20383,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1116,7 +1116,7 @@
                 "open_issues": 66,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6466,
+                "stars": 6467,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1220,10 +1220,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-02T07:13:44Z",
-                "open_issues": 2411,
+                "open_issues": 2421,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 9986,
+                "stars": 9987,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1283,30 +1283,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Squey is an open-source cross-platform visualization software designed to interactively explore and understand large amounts of tabular data (this is the read-only mirror of https://gitlab.com/squey/squey)",
+                "description": "Squey is an open-source cross-platform visualization software designed to interactively explore and understand large amounts of tabular data",
                 "homepage": "https://squey.org",
                 "id": 648945293,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-01T10:17:58Z",
+                "last_commit": "2026-09-02T15:42:48Z",
                 "open_issues": 0,
                 "owner": "squey",
                 "repo": "squey",
                 "stars": 41,
                 "topics": [
-                  "cybersecurity",
-                  "data-analysis",
-                  "data-science",
-                  "data-visualization",
-                  "exploratory-data-visualizations",
-                  "parallel-coordinates",
-                  "parquet",
-                  "parquet-files",
-                  "parquet-viewer",
-                  "pcap",
-                  "timeseries",
-                  "timeseries-analysis",
-                  "visualization"
+                  "anomaly-detection",
+                  "apache-arrow",
+                  "apache-parquet",
+                  "big-data",
+                  "cpp",
+                  "cpu",
+                  "csv",
+                  "cybersecurity-tools",
+                  "data-analysis-project",
+                  "data-exploration",
+                  "data-science-project",
+                  "data-vizualisation",
+                  "gpu",
+                  "logs",
+                  "parallel-coordinates-plot",
+                  "pcap-analyzer",
+                  "qt",
+                  "time-series",
+                  "visualizations"
                 ]
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1327,7 +1333,7 @@
                 "open_issues": 19,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1712,
+                "stars": 1713,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1376,7 +1382,7 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-02T09:44:30Z",
+                "last_commit": "2026-09-03T09:33:03Z",
                 "open_issues": 84,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
@@ -1511,7 +1517,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2106,
+            "stars": 2107,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1577,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:52:12.131Z",
+    "last_updated": "2026-09-03T10:03:25.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
@@ -1589,7 +1595,7 @@
       "open_issues": 6,
       "owner": "rob-med",
       "repo": "awesome-TS-anomaly-detection",
-      "stars": 3161,
+      "stars": 3162,
       "topics": [
         "anomaly-detection",
         "awesome-list",
