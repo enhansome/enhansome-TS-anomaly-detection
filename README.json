@@ -245,10 +245,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-08-19T03:12:27Z",
-            "open_issues": 240,
+            "open_issues": 242,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9981,
+            "stars": 9988,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -702,7 +702,7 @@
             "open_issues": 465,
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6350,
+            "stars": 6349,
             "topics": [
               "artificial-intelligence",
               "hierarchical-temporal-memory",
@@ -779,7 +779,7 @@
             "open_issues": 2,
             "owner": "selimfirat",
             "repo": "pysad",
-            "stars": 290,
+            "stars": 291,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -935,7 +935,7 @@
                 "open_issues": 229,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9509,
+                "stars": 9510,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1116,7 +1116,7 @@
                 "open_issues": 66,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6467,
+                "stars": 6468,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1219,11 +1219,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-05T08:39:22Z",
-                "open_issues": 2444,
+                "last_commit": "2026-09-06T06:48:07Z",
+                "open_issues": 2434,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 9990,
+                "stars": 9992,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1333,7 +1333,7 @@
                 "open_issues": 19,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1714,
+                "stars": 1715,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:17:33.327Z",
+    "last_updated": "2026-09-06T09:37:59.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
