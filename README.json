@@ -245,10 +245,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-08-19T03:12:27Z",
-            "open_issues": 242,
+            "open_issues": 244,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9988,
+            "stars": 9989,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -702,7 +702,7 @@
             "open_issues": 465,
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6349,
+            "stars": 6351,
             "topics": [
               "artificial-intelligence",
               "hierarchical-temporal-memory",
@@ -931,11 +931,11 @@
                 "id": 148657183,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T15:02:12Z",
-                "open_issues": 229,
+                "last_commit": "2026-09-07T09:58:10Z",
+                "open_issues": 228,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9510,
+                "stars": 9509,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1060,7 +1060,7 @@
                 "open_issues": 452,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20387,
+                "stars": 20390,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1116,7 +1116,7 @@
                 "open_issues": 66,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6468,
+                "stars": 6469,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1219,11 +1219,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-06T06:48:07Z",
-                "open_issues": 2434,
+                "last_commit": "2026-09-06T20:59:40Z",
+                "open_issues": 2440,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 9992,
+                "stars": 9993,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1538,7 +1538,7 @@
             "open_issues": 4,
             "owner": "waico",
             "repo": "SKAB",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "algorithms-evaluation",
               "anomaly-detection",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:37:59.929Z",
+    "last_updated": "2026-09-07T10:41:11.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
