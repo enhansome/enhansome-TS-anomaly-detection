@@ -245,7 +245,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-17T02:20:00Z",
-            "open_issues": 239,
+            "open_issues": 241,
             "owner": "yzhao062",
             "repo": "pyod",
             "stars": 10008,
@@ -556,7 +556,7 @@
             "open_issues": 22,
             "owner": "MentatInnovations",
             "repo": "datastream.io",
-            "stars": 913,
+            "stars": 912,
             "topics": [
               "alerts",
               "anomaly",
@@ -935,7 +935,7 @@
                 "open_issues": 220,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9521,
+                "stars": 9520,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1060,7 +1060,7 @@
                 "open_issues": 455,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20408,
+                "stars": 20409,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1116,7 +1116,7 @@
                 "open_issues": 66,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6470,
+                "stars": 6471,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1219,11 +1219,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-19T07:08:10Z",
-                "open_issues": 2484,
+                "last_commit": "2026-09-20T09:15:13Z",
+                "open_issues": 2491,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10022,
+                "stars": 10024,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:41:41.217Z",
+    "last_updated": "2026-09-20T10:03:44.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
