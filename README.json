@@ -195,7 +195,7 @@
             "open_issues": 62,
             "owner": "sintel-dev",
             "repo": "Orion",
-            "stars": 1369,
+            "stars": 1370,
             "topics": [
               "anomaly-detection",
               "benchmarking",
@@ -248,7 +248,7 @@
             "open_issues": 241,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 10011,
+            "stars": 10012,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -403,7 +403,7 @@
             "open_issues": 71,
             "owner": "twitter",
             "repo": "AnomalyDetection",
-            "stars": 3605,
+            "stars": 3606,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
@@ -779,7 +779,7 @@
             "open_issues": 2,
             "owner": "selimfirat",
             "repo": "pysad",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -935,7 +935,7 @@
                 "open_issues": 220,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9520,
+                "stars": 9522,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -992,7 +992,7 @@
                 "open_issues": 482,
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5236,
+                "stars": 5238,
                 "topics": [
                   "artificial-intelligence",
                   "aws",
@@ -1116,7 +1116,7 @@
                 "open_issues": 66,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6471,
+                "stars": 6473,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1219,11 +1219,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T10:14:12Z",
-                "open_issues": 2487,
+                "last_commit": "2026-09-22T09:20:39Z",
+                "open_issues": 2499,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10026,
+                "stars": 10029,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1333,7 +1333,7 @@
                 "open_issues": 19,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1720,
+                "stars": 1721,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1382,11 +1382,11 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-21T08:42:51Z",
-                "open_issues": 80,
+                "last_commit": "2026-09-22T07:55:36Z",
+                "open_issues": 81,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3179,
+                "stars": 3180,
                 "topics": [
                   "dtw",
                   "dynamic-time-warping",
@@ -1452,7 +1452,7 @@
                 "open_issues": 37,
                 "owner": "baidu",
                 "repo": "Curve",
-                "stars": 535,
+                "stars": 534,
                 "topics": [
                   "anomaly-detection",
                   "labeling",
@@ -1538,7 +1538,7 @@
             "open_issues": 4,
             "owner": "waico",
             "repo": "SKAB",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "algorithms-evaluation",
               "anomaly-detection",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T11:03:06.109Z",
+    "last_updated": "2026-09-22T10:16:39.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
