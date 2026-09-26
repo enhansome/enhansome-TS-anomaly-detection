@@ -248,7 +248,7 @@
             "open_issues": 241,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 10011,
+            "stars": 10012,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -289,7 +289,7 @@
             "open_issues": 39,
             "owner": "deepcharles",
             "repo": "ruptures",
-            "stars": 2084,
+            "stars": 2085,
             "topics": [
               "change-point-detection",
               "changepoint",
@@ -775,7 +775,7 @@
             "id": 269500695,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-05-31T02:47:52Z",
+            "last_commit": "2026-09-26T09:01:14Z",
             "open_issues": 2,
             "owner": "selimfirat",
             "repo": "pysad",
@@ -931,11 +931,11 @@
                 "id": 148657183,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T10:44:16Z",
-                "open_issues": 222,
+                "last_commit": "2026-09-26T09:30:57Z",
+                "open_issues": 220,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9525,
+                "stars": 9526,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -992,7 +992,7 @@
                 "open_issues": 483,
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5242,
+                "stars": 5244,
                 "topics": [
                   "artificial-intelligence",
                   "aws",
@@ -1060,7 +1060,7 @@
                 "open_issues": 455,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20416,
+                "stars": 20418,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1219,11 +1219,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T11:07:54Z",
-                "open_issues": 2524,
+                "last_commit": "2026-09-26T00:46:07Z",
+                "open_issues": 2521,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10044,
+                "stars": 10046,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1288,7 +1288,7 @@
                 "id": 648945293,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-20T18:51:55Z",
+                "last_commit": "2026-09-25T14:19:55Z",
                 "open_issues": 0,
                 "owner": "squey",
                 "repo": "squey",
@@ -1586,7 +1586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:30:59.567Z",
+    "last_updated": "2026-09-26T10:11:27.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
