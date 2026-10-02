@@ -248,7 +248,7 @@
             "open_issues": 253,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 10023,
+            "stars": 10026,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -313,15 +313,14 @@
             "id": 20475900,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T03:49:45Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-02T06:38:17Z",
+            "open_issues": 10,
             "owner": "earthgecko",
             "repo": "skyline",
             "stars": 594,
             "topics": [
               "anomaly",
               "anomaly-detection",
-              "detection",
               "graphite",
               "influxdb",
               "prometheus",
@@ -379,7 +378,7 @@
             "open_issues": 53,
             "owner": "arundo",
             "repo": "adtk",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "anomaly-detection",
               "time-series"
@@ -871,7 +870,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1190,
+            "stars": 1191,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -902,7 +901,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1190,
+            "stars": 1191,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -941,7 +940,7 @@
                 "open_issues": 228,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9533,
+                "stars": 9534,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -970,7 +969,7 @@
                 "open_issues": 49,
                 "owner": "tinkoff-ai",
                 "repo": "etna",
-                "stars": 882,
+                "stars": 883,
                 "topics": [
                   "deep-learning",
                   "forecasting",
@@ -1063,10 +1062,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-27T21:22:30Z",
-                "open_issues": 456,
+                "open_issues": 458,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20425,
+                "stars": 20428,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1179,7 +1178,7 @@
                 "open_issues": 39,
                 "owner": "salesforce",
                 "repo": "Merlion",
-                "stars": 4485,
+                "stars": 4487,
                 "topics": [
                   "anomaly-detection",
                   "automl",
@@ -1226,10 +1225,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-29T17:52:28Z",
-                "open_issues": 2555,
+                "open_issues": 2553,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10047,
+                "stars": 10050,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1388,8 +1387,8 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-01T10:06:57Z",
-                "open_issues": 91,
+                "last_commit": "2026-10-02T09:44:42Z",
+                "open_issues": 89,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
                 "stars": 3183,
@@ -1592,7 +1591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:46:47.973Z",
+    "last_updated": "2026-10-02T11:18:40.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
@@ -1604,7 +1603,7 @@
       "open_issues": 6,
       "owner": "rob-med",
       "repo": "awesome-TS-anomaly-detection",
-      "stars": 3167,
+      "stars": 3168,
       "topics": [
         "anomaly-detection",
         "awesome-list",
