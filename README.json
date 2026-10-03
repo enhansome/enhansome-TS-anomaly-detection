@@ -1061,8 +1061,8 @@
                 "id": 73872834,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:44:37Z",
-                "open_issues": 455,
+                "last_commit": "2026-10-03T08:45:08Z",
+                "open_issues": 454,
                 "owner": "facebook",
                 "repo": "prophet",
                 "stars": 20429,
@@ -1225,10 +1225,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-29T17:52:28Z",
-                "open_issues": 2559,
+                "open_issues": 2560,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10052,
+                "stars": 10053,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1591,7 +1591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:30:53.523Z",
+    "last_updated": "2026-10-03T10:34:14.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
