@@ -1065,7 +1065,7 @@
                 "open_issues": 448,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20430,
+                "stars": 20429,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1591,7 +1591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:45.218Z",
+    "last_updated": "2026-10-06T12:11:45.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
