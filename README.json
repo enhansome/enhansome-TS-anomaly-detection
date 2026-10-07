@@ -245,7 +245,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-04T20:23:37Z",
-            "open_issues": 249,
+            "open_issues": 250,
             "owner": "yzhao062",
             "repo": "pyod",
             "stars": 10027,
@@ -289,7 +289,7 @@
             "open_issues": 39,
             "owner": "deepcharles",
             "repo": "ruptures",
-            "stars": 2094,
+            "stars": 2095,
             "topics": [
               "change-point-detection",
               "changepoint",
@@ -698,7 +698,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-12-03T17:50:20Z",
-            "open_issues": 465,
+            "open_issues": 464,
             "owner": "numenta",
             "repo": "nupic-legacy",
             "stars": 6354,
@@ -778,7 +778,7 @@
             "open_issues": 9,
             "owner": "selimfirat",
             "repo": "pysad",
-            "stars": 294,
+            "stars": 296,
             "topics": [
               "anomaly",
               "anomaly-detection",
@@ -936,11 +936,11 @@
                 "id": 148657183,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T14:57:15Z",
-                "open_issues": 232,
+                "last_commit": "2026-10-07T07:29:40Z",
+                "open_issues": 233,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9534,
+                "stars": 9536,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -997,7 +997,7 @@
                 "open_issues": 484,
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5245,
+                "stars": 5246,
                 "topics": [
                   "artificial-intelligence",
                   "aws",
@@ -1065,7 +1065,7 @@
                 "open_issues": 448,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20429,
+                "stars": 20431,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1121,7 +1121,7 @@
                 "open_issues": 66,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6487,
+                "stars": 6493,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1225,10 +1225,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-04T18:17:21Z",
-                "open_issues": 2586,
+                "open_issues": 2594,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10056,
+                "stars": 10058,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1388,7 +1388,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-06T07:40:46Z",
-                "open_issues": 86,
+                "open_issues": 88,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
                 "stars": 3184,
@@ -1543,7 +1543,7 @@
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
             "last_commit": "2024-08-11T20:53:38Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "waico",
             "repo": "SKAB",
             "stars": 409,
@@ -1591,7 +1591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:11:45.214Z",
+    "last_updated": "2026-10-07T11:58:14.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
@@ -1603,7 +1603,7 @@
       "open_issues": 6,
       "owner": "rob-med",
       "repo": "awesome-TS-anomaly-detection",
-      "stars": 3168,
+      "stars": 3167,
       "topics": [
         "anomaly-detection",
         "awesome-list",
