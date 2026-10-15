@@ -936,11 +936,11 @@
                 "id": 148657183,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T10:27:40Z",
-                "open_issues": 223,
+                "last_commit": "2026-10-15T08:26:09Z",
+                "open_issues": 219,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9546,
+                "stars": 9547,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -994,10 +994,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T12:42:28Z",
-                "open_issues": 487,
+                "open_issues": 486,
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5247,
+                "stars": 5248,
                 "topics": [
                   "artificial-intelligence",
                   "aws",
@@ -1065,7 +1065,7 @@
                 "open_issues": 452,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20437,
+                "stars": 20436,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1121,7 +1121,7 @@
                 "open_issues": 66,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6497,
+                "stars": 6498,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1175,7 +1175,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-03-11T12:52:32Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "salesforce",
                 "repo": "Merlion",
                 "stars": 4487,
@@ -1225,10 +1225,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-14T02:40:28Z",
-                "open_issues": 2614,
+                "open_issues": 2627,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10067,
+                "stars": 10068,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1265,7 +1265,7 @@
                 "open_issues": 6,
                 "owner": "sktime",
                 "repo": "sktime-dl",
-                "stars": 594,
+                "stars": 593,
                 "topics": [
                   "deep-learning",
                   "longitudinal-data",
@@ -1338,7 +1338,7 @@
                 "open_issues": 18,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1730,
+                "stars": 1731,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1387,11 +1387,11 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-13T08:57:22Z",
-                "open_issues": 96,
+                "last_commit": "2026-10-14T15:23:15Z",
+                "open_issues": 95,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3186,
+                "stars": 3187,
                 "topics": [
                   "dtw",
                   "dynamic-time-warping",
@@ -1591,7 +1591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T10:32:55.324Z",
+    "last_updated": "2026-10-15T10:15:51.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
