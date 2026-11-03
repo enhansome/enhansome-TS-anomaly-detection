@@ -289,7 +289,7 @@
             "open_issues": 48,
             "owner": "deepcharles",
             "repo": "ruptures",
-            "stars": 2106,
+            "stars": 2107,
             "topics": [
               "change-point-detection",
               "changepoint",
@@ -625,7 +625,7 @@
             "open_issues": 25,
             "owner": "NetManAIOps",
             "repo": "donut",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "code"
             ]
@@ -769,13 +769,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Streaming anomaly detection in Python: 16 online detectors (xStream, LODA, RS-Hash, Half-Space Trees, RRCF…) plus calibration and prequential evaluation for real-time data.",
+            "description": "Streaming anomaly detection in Python: online detectors (xStream, LODA, RS-Hash, Half-Space Trees, RRCF…) plus calibration and prequential evaluation for real-time data.",
             "homepage": "https://pysad.readthedocs.io/en/stable/",
             "id": 269500695,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T18:46:39Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-03T03:20:21Z",
+            "open_issues": 17,
             "owner": "selimfirat",
             "repo": "pysad",
             "stars": 316,
@@ -870,7 +870,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1202,
+            "stars": 1203,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -901,7 +901,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1202,
+            "stars": 1203,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -936,11 +936,11 @@
                 "id": 148657183,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:16:15Z",
-                "open_issues": 238,
+                "last_commit": "2026-11-03T09:53:15Z",
+                "open_issues": 239,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9573,
+                "stars": 9574,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1065,7 +1065,7 @@
                 "open_issues": 461,
                 "owner": "meta",
                 "repo": "prophet",
-                "stars": 20470,
+                "stars": 20472,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1224,11 +1224,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-01T18:04:34Z",
-                "open_issues": 2740,
+                "last_commit": "2026-11-02T22:14:23Z",
+                "open_issues": 2749,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10088,
+                "stars": 10090,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1387,11 +1387,11 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-02T13:42:45Z",
-                "open_issues": 99,
+                "last_commit": "2026-11-03T10:43:57Z",
+                "open_issues": 94,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3190,
+                "stars": 3189,
                 "topics": [
                   "dtw",
                   "dynamic-time-warping",
@@ -1543,7 +1543,7 @@
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
             "last_commit": "2024-08-11T20:53:38Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "waico",
             "repo": "SKAB",
             "stars": 411,
@@ -1591,7 +1591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:47:27.263Z",
+    "last_updated": "2026-11-03T12:58:07.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
