@@ -248,7 +248,7 @@
             "open_issues": 227,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 10074,
+            "stars": 10079,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -402,7 +402,7 @@
             "open_issues": 71,
             "owner": "twitter",
             "repo": "AnomalyDetection",
-            "stars": 3605,
+            "stars": 3606,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:52.632Z"
@@ -701,7 +701,7 @@
             "open_issues": 464,
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6351,
+            "stars": 6349,
             "topics": [
               "artificial-intelligence",
               "hierarchical-temporal-memory",
@@ -774,8 +774,8 @@
             "id": 269500695,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T00:01:58Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-05T01:29:11Z",
+            "open_issues": 23,
             "owner": "selimfirat",
             "repo": "pysad",
             "stars": 316,
@@ -870,7 +870,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -901,7 +901,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -936,11 +936,11 @@
                 "id": 148657183,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T11:57:52Z",
-                "open_issues": 235,
+                "last_commit": "2026-11-05T12:54:21Z",
+                "open_issues": 234,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9574,
+                "stars": 9575,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -994,7 +994,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T12:42:28Z",
-                "open_issues": 489,
+                "open_issues": 490,
                 "owner": "awslabs",
                 "repo": "gluonts",
                 "stars": 5259,
@@ -1034,7 +1034,7 @@
                 "open_issues": 70,
                 "owner": "alkaline-ml",
                 "repo": "pmdarima",
-                "stars": 1738,
+                "stars": 1740,
                 "topics": [
                   "arima",
                   "econometrics",
@@ -1061,8 +1061,8 @@
                 "id": 73872834,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-22T11:32:07Z",
-                "open_issues": 461,
+                "last_commit": "2026-11-05T02:14:29Z",
+                "open_issues": 462,
                 "owner": "meta",
                 "repo": "prophet",
                 "stars": 20474,
@@ -1121,7 +1121,7 @@
                 "open_issues": 73,
                 "owner": "facebookresearch",
                 "repo": "Kats",
-                "stars": 6505,
+                "stars": 6506,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1224,11 +1224,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T22:14:23Z",
-                "open_issues": 2756,
+                "last_commit": "2026-11-05T11:50:00Z",
+                "open_issues": 2759,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10090,
+                "stars": 10092,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1338,7 +1338,7 @@
                 "open_issues": 20,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1733,
+                "stars": 1734,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:52.632Z"
@@ -1387,11 +1387,11 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-04T09:13:41Z",
+                "last_commit": "2026-11-04T14:21:37Z",
                 "open_issues": 94,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3189,
+                "stars": 3190,
                 "topics": [
                   "dtw",
                   "dynamic-time-warping",
@@ -1591,7 +1591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:13:54.024Z",
+    "last_updated": "2026-11-05T13:27:38.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
@@ -1603,7 +1603,7 @@
       "open_issues": 8,
       "owner": "rob-med",
       "repo": "awesome-TS-anomaly-detection",
-      "stars": 3166,
+      "stars": 3165,
       "topics": [
         "anomaly-detection",
         "awesome-list",
