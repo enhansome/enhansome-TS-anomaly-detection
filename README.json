@@ -248,7 +248,7 @@
             "open_issues": 212,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 10101,
+            "stars": 10103,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -289,7 +289,7 @@
             "open_issues": 49,
             "owner": "deepcharles",
             "repo": "ruptures",
-            "stars": 2119,
+            "stars": 2120,
             "topics": [
               "change-point-detection",
               "changepoint",
@@ -513,7 +513,7 @@
             "open_issues": 74,
             "owner": "chaos-genius",
             "repo": "chaos_genius",
-            "stars": 777,
+            "stars": 776,
             "topics": [
               "ai",
               "alert",
@@ -701,7 +701,7 @@
             "open_issues": 464,
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6347,
+            "stars": 6346,
             "topics": [
               "artificial-intelligence",
               "hierarchical-temporal-memory",
@@ -774,8 +774,8 @@
             "id": 269500695,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-25T02:27:33Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-26T02:24:17Z",
+            "open_issues": 11,
             "owner": "selimfirat",
             "repo": "pysad",
             "stars": 322,
@@ -939,7 +939,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-24T15:09:46Z",
-                "open_issues": 228,
+                "open_issues": 229,
                 "owner": "unit8co",
                 "repo": "darts",
                 "stars": 9598,
@@ -999,7 +999,7 @@
                 "open_issues": 499,
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5263,
+                "stars": 5265,
                 "topics": [
                   "artificial-intelligence",
                   "aws",
@@ -1064,10 +1064,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-24T16:58:22Z",
-                "open_issues": 471,
+                "open_issues": 472,
                 "owner": "meta",
                 "repo": "prophet",
-                "stars": 20505,
+                "stars": 20506,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1227,10 +1227,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-25T08:25:32Z",
-                "open_issues": 2870,
+                "open_issues": 2883,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10102,
+                "stars": 10106,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1295,7 +1295,7 @@
                 "id": 648945293,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-25T15:47:28Z",
+                "last_commit": "2026-11-25T20:21:19Z",
                 "open_issues": 0,
                 "owner": "squey",
                 "repo": "squey",
@@ -1389,8 +1389,8 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-23T09:53:17Z",
-                "open_issues": 104,
+                "last_commit": "2026-11-26T15:15:19Z",
+                "open_issues": 101,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
                 "stars": 3194,
@@ -1545,7 +1545,7 @@
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
             "last_commit": "2024-08-11T20:53:38Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "waico",
             "repo": "SKAB",
             "stars": 413,
@@ -1581,7 +1581,7 @@
             "open_issues": 4,
             "owner": "NetManAIOps",
             "repo": "KPI-Anomaly-Detection",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "dataset"
             ]
@@ -1593,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:59:27.252Z",
+    "last_updated": "2026-11-26T15:41:52.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools & datasets for anomaly detection on time-series data.",
